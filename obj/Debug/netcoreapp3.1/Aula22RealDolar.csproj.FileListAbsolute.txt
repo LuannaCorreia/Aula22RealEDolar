@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula22RealDolar\bin\Debug\netcoreapp3.1\Aula22RealDolar.exe
+C:\Users\Senai132\Desktop\Aula22RealDolar\bin\Debug\netcoreapp3.1\Aula22RealDolar.deps.json
+C:\Users\Senai132\Desktop\Aula22RealDolar\bin\Debug\netcoreapp3.1\Aula22RealDolar.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula22RealDolar\bin\Debug\netcoreapp3.1\Aula22RealDolar.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula22RealDolar\bin\Debug\netcoreapp3.1\Aula22RealDolar.dll
+C:\Users\Senai132\Desktop\Aula22RealDolar\bin\Debug\netcoreapp3.1\Aula22RealDolar.pdb
+C:\Users\Senai132\Desktop\Aula22RealDolar\obj\Debug\netcoreapp3.1\Aula22RealDolar.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula22RealDolar\obj\Debug\netcoreapp3.1\Aula22RealDolar.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula22RealDolar\obj\Debug\netcoreapp3.1\Aula22RealDolar.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula22RealDolar\obj\Debug\netcoreapp3.1\Aula22RealDolar.dll
+C:\Users\Senai132\Desktop\Aula22RealDolar\obj\Debug\netcoreapp3.1\Aula22RealDolar.pdb
